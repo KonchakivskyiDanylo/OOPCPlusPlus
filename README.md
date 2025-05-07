@@ -9,11 +9,11 @@ This repository contains my implementations for the C++ Object-Oriented Programm
 
 ### Project 2: Complex Numbers (9/10)
 
-### Project 3: Custom String Class (TBD)
+### Project 3: Custom String Class (9/10)
 
 ### Project 4: Unbounded Sequence (9.8/10)
 
-### Project 5: Abstract Queue Implementations (TBD)
+### Project 5: Abstract Queue Implementations (10/10)
 
 ## Technologies & Concepts
 - C++ (C++11/14/17)
